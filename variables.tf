@@ -51,4 +51,5 @@ variable "placeholder" {
 
 variable "bucket_prefix" {
   description = "S3 Bucket name prefix"
+  default     = "mhmddeniafendi"
 }
